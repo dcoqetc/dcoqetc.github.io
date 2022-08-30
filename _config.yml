@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Domitille Coq--Etchegaray
 title: PhD student
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: domitille.coq-etchegaray@inrae.fr
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: true
