@@ -9,7 +9,7 @@ version: 2
 name: Domitille Coq--Etchegaray
 title: PhD student
 email: domitille.coq-etchegaray@inrae.fr
-website: this beautiful one
+# website: this beautiful one
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -48,9 +48,7 @@ github_username:  dcoqetc
 # about_title: About Me
 about_profile_image: images/profiles.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Domitille and I'm a PhD student starting creating her own CV. 
-
-  I am most skilled in: <mark>playing video games</mark> and <mark>reading mangas</mark>
+  Hi, my name is Domitille and I'm a french PhD student starting her scientific journey. 
 
 content:
   # - title: Projects # Title for the section
@@ -76,25 +74,34 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Overwhelmed PhD student
+        title: PhD student
+        sub_title: UMR BIOGECO (Bordeaux) - UMR GDEC (Clermont-Ferrand)
         # link: https://www6.bordeaux-aquitaine.inrae.fr/biogeco
         # link_text: boringcompany.com
         # sub_title: Senior Network System Administrator
         caption: December 2020 - Present
         quote: >
-          Specialized metabolites variation investigator for the good of oak trees 
+          PhD Subject: Genetic bases of specialized metabolites variation and effect on biotic interactions in a major crop (bread wheat) and a dominant forest tree (sessile oak).
+          http://www.theses.fr/s258031
         # description: | # this will include new lines to allow paragraphs
         #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-  - title: Scientific presentation
+  - title: Conference presentations
     layout: list
     content:
       - layout: left
-        title: EVOLTREE Conference
-        caption: September 2021
-      - layout: left
         title: ESEB Conference
-        caption: August 2022
+        caption: 14-19 August 2022
+        quote: >
+          Talk title: Genetic architecture of leaf specialized metabolites in sessile oak (Quercus petraea)
+          https://www.eseb2022.cz/
+      - layout: left
+        title: EVOLTREE Conference
+        caption: 14-17 September 2021
+        quote: > 
+          Talk title: Genome-wide association study of leaf specialized metabolites in sessile oak (Quercus petraea) provenances.
+          https://www.evoltree.eu/conferences/conference/first-evoltree-conference-2021
+      
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -123,7 +130,7 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
