@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Domitille Coq--Etchegaray
-title: PhD student
-email: domitille.coq-etchegaray@inrae.fr / domitille.coqetchegaray@gmail.com
+title: PostDoc
+email: domitille.coqetchegaray@geo.uzh.ch
 # website: this beautiful one
 
 # Dark Mode (true/false/never)
@@ -48,13 +48,7 @@ github_username:  dcoqetc
 # about_title: About Me
 about_profile_image: images/profiles.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Domitille and I'm a PhD student working on the genetic basis of plant specialized metabolites variation in two model species sessile oak and bread wheat. 
-  
-  I'm looking for a postdoc position :)    
-  
-  In my project:    
-    1) I study the genetic basis of leaf specialized metabolites variation within sessile oak populations using genome-wide association approaches with genomic and metabolomic data.   
-    2) I study specialized metabolites gene expression response induced by the infection of *Fusarium graminearum* in modern bread wheat cultivars using transcriptomic data. I also study the potential role of gene expression variation between homoeolog genes copies in differentiated gene expression response among cultivars to the infection.  
+  Hi, my name is Domitille. I’m a PostDoc at the University of Zurich studying source of intraspecific variation of tree leaf metabolites. 
 
   **Keywords**: population genomics, genome-wide association analysis, evolution bioinformatics    
   **Programming Skills**: R, Python, Unix, Snakemake, Singularity, Slurm-HPCs, Git    
@@ -83,6 +77,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: PostDoc Spatial Genetics
+        sub_title: Universität Zurich, Department of Geography and Chemistry
+        caption: February 2024 - Present
+        description: |
+          TODO
+          [![uzh](images/Universität_Zürich_logo.svg)](https://www.geo.uzh.ch/en/units/sg.html)
+     - layout: left
+        title: PostDoc
+        sub_title: Plant Science Center
+        caption: March 2025 - Present
+        description: TODO
+      - layout: left
         title: PhD student (INRAe)
         sub_title: UMR BIOGECO (Cestas) - UMR GDEC (Clermont-Ferrand) FRANCE
         link: http://www.theses.fr/s258031
@@ -105,10 +111,21 @@ content:
       - layout: left
         title: In preparation
         description: |
-          Differentiated homoeolog expression bias of specialized metabolites-related genes among five modern bread wheat (*Triticum aestivum*) cultivars to the infection of *Fusarium graminearum* 
+          Differentiated homoeolog expression bias of specialized metabolites-related genes among five modern bread wheat (*Triticum aestivum*) cultivars to the infection of *Fusarium graminearum*
+  - title: Fundings
+    layout: list
+    content:
+    - layout: left
+      title: Rübel Fund
   - title: Conference presentations
     layout: list
     content:
+    - layout: left
+        title: EVOLTREE 2023 
+        link: https://www.evoltree.eu/conferences/conference/second-evoltree-conference-2023-resilient-forests-for-the-future
+        sub_title: 12-15 September 2023 Brasov, Romania
+        description: | 
+          **Talk title**: Genetic architecture of leaf specialized metabolites natural variation within sessile oak populations
       - layout: left
         title: Young researchers days  
         link: https://eng-jjc2023.journees.inrae.fr/
@@ -141,7 +158,7 @@ content:
     content:
       - layout: top
         title: PhD - Evolutionary, Functional & Community Ecology
-        caption: 2020 - present
+        caption: 2020 - 2023
         sub_title: University of Bordeaux
       - layout: top
         title: Master of Science degree in Bioinformatics
