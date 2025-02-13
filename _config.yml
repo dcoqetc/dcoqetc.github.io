@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Domitille Coq--Etchegaray
+name: Dr. Domitille Coq--Etchegaray
 title: PostDoc
 email: domitille.coqetchegaray@geo.uzh.ch
 # website: this beautiful one
@@ -48,7 +48,7 @@ github_username:  dcoqetc
 # about_title: About Me
 about_profile_image: images/profiles.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Domitille. I’m a PostDoc at the University of Zurich studying source of intraspecific variation of tree leaf metabolites. 
+  Hi, my name is Domitille. I am a PostDoc at the University of Zurich studying source of intraspecific variation of tree leaf metabolites. 
 
   **Keywords**: population genomics, genome-wide association analysis, evolution bioinformatics    
   **Programming Skills**: R, Python, Unix, Snakemake, Singularity, Slurm-HPCs, Git    
@@ -81,8 +81,8 @@ content:
         sub_title: Universität Zurich, Department of Geography and Chemistry
         caption: February 2024 - Present
         description: |
-          TODO
-     - layout: left
+          PostDoc in Spatial Genetics group
+      - layout: left
         title: PostDoc
         sub_title: Plant Science Center
         caption: March 2025 - Present
@@ -120,37 +120,37 @@ content:
     layout: list
     content:
     - layout: left
-        title: EVOLTREE 2023 
-        link: https://www.evoltree.eu/conferences/conference/second-evoltree-conference-2023-resilient-forests-for-the-future
-        sub_title: 12-15 September 2023 Brasov, Romania
-        description: | 
+      title: EVOLTREE 2023 
+      link: https://www.evoltree.eu/conferences/conference/second-evoltree-conference-2023-resilient-forests-for-the-future
+      sub_title: 12-15 September 2023 Brasov, Romania
+      description: | 
           **Talk title**: Genetic architecture of leaf specialized metabolites natural variation within sessile oak populations
-      - layout: left
-        title: Young researchers days  
-        link: https://eng-jjc2023.journees.inrae.fr/
-        sub_title: 03-05 April 2023 Clermont-Ferrand, France
-        description: | 
+    - layout: left
+      title: Young researchers days  
+      link: https://eng-jjc2023.journees.inrae.fr/
+      sub_title: 03-05 April 2023 Clermont-Ferrand, France
+      description: | 
           **Member of the organizing commitee**   
           **Poster**: Differentiated gene expression response of specialized metabolites-related genes among five modern bread wheat (*Triticum aestivum*) cultivars to the infection of *Fusarium graminearum*
-      - layout: left
-        title: Symposium Future PhDs for Future Forests
-        link: https://www.evoltree.eu/training/item/symposium-future-phds-for-future-forests
-        sub_title: 28-30 September 2022 Göttingen, Germany
-        caption: Science & Environment Department mobility grant, Univerity of Bordeaux
-        description: | 
+    - layout: left
+      title: Symposium Future PhDs for Future Forests
+      link: https://www.evoltree.eu/training/item/symposium-future-phds-for-future-forests
+      sub_title: 28-30 September 2022 Göttingen, Germany
+      caption: Science & Environment Department mobility grant, Univerity of Bordeaux
+      description: | 
           **Talk title**: Genetic architecture of leaf specialized metabolites in sessile oak (*Quercus petraea*)
-      - layout: left
-        title: ESEB Conference
-        link: https://www.eseb2022.cz/
-        sub_title: 14-19 August 2022 Prague, Czech Republic
-        caption: EVOLTREE Conference Grant
-        description: | 
+    - layout: left
+      title: ESEB Conference
+      link: https://www.eseb2022.cz/
+      sub_title: 14-19 August 2022 Prague, Czech Republic
+      caption: EVOLTREE Conference Grant
+      description: | 
           **Talk title**: Genetic architecture of leaf specialized metabolites in sessile oak (*Quercus petraea*)
-      - layout: left
-        title: EVOLTREE Conference
-        link: https://www.evoltree.eu/conferences/conference/first-evoltree-conference-2021
-        caption: 14-17 September 2021, Online
-        description: | 
+    - layout: left
+      title: EVOLTREE Conference
+      link: https://www.evoltree.eu/conferences/conference/first-evoltree-conference-2021
+      caption: 14-17 September 2021, Online
+      description: | 
           **Talk title**: Genome-wide association study of leaf specialized metabolites in sessile oak (*Quercus petraea*) provenances.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
