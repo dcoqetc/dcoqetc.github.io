@@ -84,12 +84,12 @@ content:
           ![workshop](images/flyer.png)
           
       - layout: left
-        title: ESEB 2025 Barcelona
+        title: ESEB 2025 Barcelona 17-22 August 2025
         sub_title: Adaptation to environmental changes in trees through the lens of common gardens and genomics
+        link: https://eseb2025.com/list-of-symposia/#S01
         description: | 
-          **Member of symposia comitee**: Submit your abstract ;)
-
-          https://eseb2025.com/list-of-symposia/#S01
+          **Member of symposia comitee**
+          Submit your abstract ;)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -126,12 +126,12 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
   - title: Preprints & Publications
-    subtitle: https://scholar.google.com/citations?user=UsYeMEkAAAAJ&hl=en
     layout: list
     content:
       - layout: left
         title: Preprint
         sub_title: bioRxiv
+        link: https://scholar.google.com/citations?user=UsYeMEkAAAAJ&hl=en
         description: |
           [Extensive genetic variation of leaf specialized metabolites in sessile oak (*Quercus petraea*) populations.](https://doi.org/10.1101/2023.04.07.536008)
   - title: Fundings
