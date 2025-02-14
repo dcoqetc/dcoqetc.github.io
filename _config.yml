@@ -49,7 +49,7 @@ github_username:  dcoqetc
 about_profile_image: images/profiles.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Domitille!
-  I am a PostDoc working at the University of Zurich with a main study focus of source of intraspecific variation of <i>Fagus sylvatica<\i> leaf metabolites. 
+  I am a PostDoc working at the University of Zurich with a main study focus of source of intraspecific variation of *Fagus sylvatica* leaf metabolites. 
 
   **Keywords**: population genomics, genome-wide association analysis, evolution bioinformatics, metabolomics    
   **Programming Skills**: R, Python, Unix, Snakemake, Singularity, Slurm-HPCs, Git    
@@ -78,16 +78,17 @@ content:
     content:
       - layout: left
         title: Workshop Beech Genomes for the Future
-        subtitle: April 4, 2025 University of Zurich
+        sub_title: April 4, 2025 University of Zurich
         description: |
           **Member of workshop organization**
-          [![workshop](images/flyer.pdf)]()
+          ![workshop](images/flyer.png)
           
       - layout: left
         title: ESEB 2025 Barcelona
-        subtitle: Adaptation to environmental changes in trees through the lens of common gardens and genomics
+        sub_title: Adaptation to environmental changes in trees through the lens of common gardens and genomics
         description: | 
           **Member of symposia comitee**: Submit your abstract ;)
+
           https://eseb2025.com/list-of-symposia/#S01
 
   - title: Experience # Title for the section
@@ -106,7 +107,6 @@ content:
 
           2. Study of source of variation of leaf chemical production within beech provenances at early life stage
 
-          [![UZH](images/Universität_Zürich_logo.svg)]() [![SG](images/SPATIAL_GENETICS_LOGO_2024_noBackground.tif)](https://www.geo.uzh.ch/en/units/sg.html)
       - layout: left
         title: PostDoc
         sub_title: Plant Science Center
