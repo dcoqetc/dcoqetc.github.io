@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dr. Domitille Coq--Etchegaray
-title: PostDoc
+title: PostDoc Spatial Genetic
 email: domitille.coqetchegaray@geo.uzh.ch
 # website: this beautiful one
 
@@ -15,7 +15,7 @@ email: domitille.coqetchegaray@geo.uzh.ch
 darkmode: never
 
 # Social links
-twitter_username: dcoqetchegaray
+bluesky_username: domcoqetc
 github_username:  dcoqetc
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -48,9 +48,10 @@ github_username:  dcoqetc
 # about_title: About Me
 about_profile_image: images/profiles.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Domitille. I am a PostDoc at the University of Zurich studying source of intraspecific variation of tree leaf metabolites. 
+  Hi, my name is Domitille!
+  I am a PostDoc working at the University of Zurich with a main study focus of source of intraspecific variation of <i>Fagus sylvatica<\i> leaf metabolites. 
 
-  **Keywords**: population genomics, genome-wide association analysis, evolution bioinformatics    
+  **Keywords**: population genomics, genome-wide association analysis, evolution bioinformatics, metabolomics    
   **Programming Skills**: R, Python, Unix, Snakemake, Singularity, Slurm-HPCs, Git    
 
 content:
@@ -72,6 +73,22 @@ content:
   #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Workshop and Symposia
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Workshop Beech Genomes for the Future
+        subtitle: April 4, 2025 University of Zurich
+        description: |
+          **Member of workshop organization**
+          [![workshop](images/flyer.pdf)]()
+          
+      - layout: left
+        title: ESEB 2025 Barcelona
+        subtitle: Adaptation to environmental changes in trees through the lens of common gardens and genomics
+        description: | 
+          **Member of symposia comitee**: Submit your abstract ;)
+          https://eseb2025.com/list-of-symposia/#S01
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -81,12 +98,21 @@ content:
         sub_title: Universität Zurich, Department of Geography and Chemistry
         caption: February 2024 - Present
         description: |
-          PostDoc in Spatial Genetics group
+          PostDoc in Spatial Genetics group (Prof. Meredith Schuman)
+
+          Main focus:
+
+          1. Genome-wide association study within the Laegern beech forest (Zurich, Switzerland). Can we identify the genetic basis of tree functional traits derived from Earth observation data?
+
+          2. Study of source of variation of leaf chemical production within beech provenances at early life stage
+
+          [![UZH](images/Universität_Zürich_logo.svg)]() [![SG](images/SPATIAL_GENETICS_LOGO_2024_noBackground.tif)](https://www.geo.uzh.ch/en/units/sg.html)
       - layout: left
         title: PostDoc
         sub_title: Plant Science Center
         caption: March 2025 - Present
-        description: TODO
+        description: |
+          Task: Fundraising, grant writing support
       - layout: left
         title: PhD student (INRAe)
         sub_title: UMR BIOGECO (Cestas) - UMR GDEC (Clermont-Ferrand) FRANCE
@@ -100,6 +126,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
   - title: Preprints & Publications
+    subtitle: https://scholar.google.com/citations?user=UsYeMEkAAAAJ&hl=en
     layout: list
     content:
       - layout: left
@@ -107,15 +134,14 @@ content:
         sub_title: bioRxiv
         description: |
           [Extensive genetic variation of leaf specialized metabolites in sessile oak (*Quercus petraea*) populations.](https://doi.org/10.1101/2023.04.07.536008)
-      - layout: left
-        title: In preparation
-        description: |
-          Differentiated homoeolog expression bias of specialized metabolites-related genes among five modern bread wheat (*Triticum aestivum*) cultivars to the infection of *Fusarium graminearum*
   - title: Fundings
     layout: list
     content:
     - layout: left
       title: Rübel Fund
+      sub_title: Swiss Society for Plant Biology
+      description: |
+        Unraveling the genetic basis of survival "biomarkers" in a strongly selected early life stage of common beech trees
   - title: Conference presentations
     layout: list
     content:
