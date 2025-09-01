@@ -12,7 +12,7 @@ email: domitille.coqetchegaray@geo.uzh.ch
 # website: this beautiful one
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 bluesky_username: domcoqetc
@@ -49,10 +49,15 @@ github_username:  dcoqetc
 about_profile_image: images/profiles.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Domitille!
-  I am a PostDoc working at the University of Zurich with a main study focus of source of intraspecific variation of *Fagus sylvatica* leaf metabolites. 
+  I am a PostDoc working at the University of Zurich with a main study focus of identifying the genetic basis underlying varying natural trait variation, such as leaf metabolites or functional traits obtained from airborne data.  
+  Model species: *Fagus sylvatica*
 
-  **Keywords**: population genomics, genome-wide association analysis, evolution bioinformatics, metabolomics    
-  **Programming Skills**: R, Python, Unix, Snakemake, Singularity, Slurm-HPCs, Git    
+  **Language**: English (B2-C1), French (mother tongue), German (A1, enroll A2 class)
+
+  **Keywords**: population genomics, genome-wide association analysis, bioinformatics, metabolomics    
+  **Programming Skills**: R, Python, Unix, Snakemake, Singularity, Slurm-HPCs, Git  
+  **Wet-lab**: DNA extraction, metabolomic extraction (LC-MS) 
+  **Fieldwork**: Leaf sampling in forest environments
 
 content:
   # - title: Projects # Title for the section
@@ -73,29 +78,12 @@ content:
   #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  - title: Workshop and Symposia
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Workshop Beech Genomes for the Future
-        sub_title: April 4, 2025 University of Zurich
-        description: |
-          **Member of workshop organization**
-          ![workshop](images/flyer.png)
-          
-      - layout: left
-        title: ESEB 2025 Barcelona 17-22 August 2025
-        sub_title: Adaptation to environmental changes in trees through the lens of common gardens and genomics
-        link: https://eseb2025.com/list-of-symposia/#S01
-        description: | 
-          **Member of symposia comitee**
-          Submit your abstract ;)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PostDoc Spatial Genetics
+        title: PostDoc Spatial Genetics (80%)
         sub_title: Universität Zurich, Department of Geography and Chemistry
         caption: February 2024 - Present
         description: |
@@ -107,12 +95,14 @@ content:
 
           2. Study of source of variation of leaf chemical production within beech provenances at early life stage
 
+          3. Metabolomic profiling of a southern beech population
+
       - layout: left
-        title: PostDoc
-        sub_title: Plant Science Center
+        title: Fundraising assistant (20%)
+        sub_title: Plant Science Center, ETH
         caption: March 2025 - Present
         description: |
-          Task: Fundraising, grant writing support
+          Task: Fundraising, grant writing support (MSCA COFUND, MSCA DN)
       - layout: left
         title: PhD student (INRAe)
         sub_title: UMR BIOGECO (Cestas) - UMR GDEC (Clermont-Ferrand) FRANCE
@@ -131,22 +121,46 @@ content:
       - layout: left
         title: Preprint
         sub_title: bioRxiv
-        link: https://scholar.google.com/citations?user=UsYeMEkAAAAJ&hl=en
         description: |
           [Extensive genetic variation of leaf specialized metabolites in sessile oak (*Quercus petraea*) populations.](https://doi.org/10.1101/2023.04.07.536008)
+      - layout: left
+        title: Publications
+        sub_title: co-author
+        description: |
+          [Tree diversity shapes the spectral signature of light transmittance in developing forests](https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.70032)
+
+  
   - title: Fundings
     layout: list
     content:
     - layout: left
-      title: Rübel Fund
+      title: Rübel Fund 2025
       sub_title: Swiss Society for Plant Biology
       description: |
         Unraveling the genetic basis of survival "biomarkers" in a strongly selected early life stage of common beech trees
+  
+  - title: Workshops
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Workshop Beech Genomes for the Future
+        sub_title: April 4, 2025 University of Zurich
+        link: https://swissforestlab.wsl.ch/fileadmin/user_upload/WSL/Microsite/SwissForestLab/Events/BGF_WorkshopSummary.pdf
+        link:
+        description: |
+          **Member of workshop organization**
+  
   - title: Conference presentations
     layout: list
     content:
     - layout: left
-      title: EVOLTREE 2023 
+      title: ESEB Conference Barcelona 2025
+      link: https://eseb2025.com/list-of-symposia/#S01
+      sub_title:
+      description: |
+        **Symposium organizer**: Adaptation to environmental changes in trees through the lens of common gardens and genomics
+    - layout: left
+      title: EVOLTREE Conference 2023 
       link: https://www.evoltree.eu/conferences/conference/second-evoltree-conference-2023-resilient-forests-for-the-future
       sub_title: 12-15 September 2023 Brasov, Romania
       description: | 
@@ -166,14 +180,14 @@ content:
       description: | 
           **Talk title**: Genetic architecture of leaf specialized metabolites in sessile oak (*Quercus petraea*)
     - layout: left
-      title: ESEB Conference
+      title: ESEB Conference Prague 2022
       link: https://www.eseb2022.cz/
       sub_title: 14-19 August 2022 Prague, Czech Republic
       caption: EVOLTREE Conference Grant
       description: | 
           **Talk title**: Genetic architecture of leaf specialized metabolites in sessile oak (*Quercus petraea*)
     - layout: left
-      title: EVOLTREE Conference
+      title: EVOLTREE Conference 2021
       link: https://www.evoltree.eu/conferences/conference/first-evoltree-conference-2021
       caption: 14-17 September 2021, Online
       description: | 
