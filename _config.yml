@@ -49,8 +49,8 @@ github_username:  dcoqetc
 about_profile_image: images/Update_CV.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Domitille!
-  I am a PostDoc working at WSL and at the University of Zurich with a main study focus on tree genomics.
-  Studied species: *Quercus petraea* *Fagus sylvatica* 
+  I am a PostDoc working at WSL and at the University of Zurich with a main study focus on tree genomics. 
+  Studied species: *Quercus petraea* *Fagus sylvatica*    
   Soon to be studied: *Torminalis glaberrima* *Quercus pubescens* *Acer platanoides* *Tilia cordata/platyphyllos*
 
   **Language**: English (B2-C1), French (mother tongue), German (A2-B1)
@@ -90,18 +90,18 @@ content:
         description: |
           PostDoc TreeGD project (Supervision Dr. Christian Rellstab)
 
-          https://treegd.wsl.ch/en/
-
           Main focus:
 
           Study of the genetic diversity and population structure of five native tree species across Switzerland    
-          (Beech, Wild Service Tree, Downy oak, Linden, Norway Maple)
+          (Beech, Wild Service Tree, Downy oak, Linden, Norway Maple) 
+
+          [![WSL](images/WSL.png)](https://www.wsl.ch/en/staff/coqdomit/)  [<img src="images/Logo_mit_Schrift.jpg" alt="drawing" width="30%"/>](https://treegd.wsl.ch/en/)
       - layout: left
         title: PostDoc Spatial Genetics (20%)
         sub_title: Universität Zurich, Department of Geography and Chemistry
         caption: February 2024 - Present
         description: |
-          PostDoc in Spatial Genetics group (Prof. Meredith Schuman)
+          PostDoc in Spatial Genetics of Ecosystems group (Prof. Meredith Schuman)
 
           Main focus:
 
@@ -109,8 +109,9 @@ content:
 
           2. Study of source of variation of leaf chemical production within beech provenances at early life stage
 
-          3. Metabolomic profiling of a southern beech population
+          3. Metabolomic profiling of a southern beech population 
 
+          [![WSL](images/SPATIAL_GENETICS_LOGO_2024_1.jpg)](https://www.geo.uzh.ch/en/units/sg.html)
       - layout: left
         title: Fundraising assistant (20%)
         sub_title: Plant Science Center, ETH
