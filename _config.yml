@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dr. Domitille Coq--Etchegaray
-title: PostDoc ökoligische Genetik (WSL) - Spatial Genetic (UZH)
+title: PostDoc Ökologische Genetik (WSL) - Spatial Genetic (UZH)
 email: domitille.coqetchegaray@wsl.ch / domitille.coqetchegaray@geo.uzh.ch
 # website: this beautiful one
 
@@ -22,12 +22,12 @@ github_username:  dcoqetc
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: domitille-coq-etchegaray-09b192188
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0009-0009-2104-038X
 
 # Additional icon links
 # additional_links:
@@ -84,7 +84,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PostDoc Okologische Genetik (80%)
+        title: PostDoc Ökologische Genetik (80%)
         sub_title: Eidg. Forschungsanstalt WSL
         caption: February 2026 - Present
         description: |
@@ -111,7 +111,7 @@ content:
 
           3. Metabolomic profiling of a southern beech population 
 
-          [<img src="images/SPATIAL_GENETICS_LOGO_2024_1.jpg" alt="drawing" width="10%"/>](https://www.geo.uzh.ch/en/units/sg.html)
+          [<img src="images/SPATIAL_GENETICS_LOGO_2024_1.jpg" alt="drawing" width="20%"/>](https://www.geo.uzh.ch/en/units/sg.html)
       - layout: left
         title: Fundraising assistant (20%)
         sub_title: Plant Science Center, ETH
