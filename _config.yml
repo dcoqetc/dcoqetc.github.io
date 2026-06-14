@@ -12,7 +12,7 @@ email: domitille.coqetchegaray@wsl.ch / domitille.coqetchegaray@geo.uzh.ch
 # website: this beautiful one
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 bluesky_username: domcoqetc
@@ -49,7 +49,7 @@ github_username:  dcoqetc
 about_profile_image: images/Update_CV.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Domitille!
-  I am a PostDoc working at WSL and at the University of Zurich with a main study focus on tree genomics. 
+  I am a PostDoc working at WSL and at the University of Zurich with a main study focus on tree genomics.     
   Studied species: *Quercus petraea* *Fagus sylvatica*    
   Soon to be studied: *Torminalis glaberrima* *Quercus pubescens* *Acer platanoides* *Tilia cordata/platyphyllos*
 
@@ -95,7 +95,7 @@ content:
           Study of the genetic diversity and population structure of five native tree species across Switzerland    
           (Beech, Wild Service Tree, Downy oak, Linden, Norway Maple) 
 
-          [![WSL](images/WSL.png)](https://www.wsl.ch/en/staff/coqdomit/)  [<img src="images/Logo_mit_Schrift.jpg" alt="drawing" width="30%"/>](https://treegd.wsl.ch/en/)
+          [<img src="images/WSL.png" alt="drawing" width="30%"/>](https://www.wsl.ch/en/staff/coqdomit/)  [<img src="images/Logo_mit_Schrift.jpg" alt="drawing" width="30%"/>](https://treegd.wsl.ch/en/)
       - layout: left
         title: PostDoc Spatial Genetics (20%)
         sub_title: Universität Zurich, Department of Geography and Chemistry
@@ -111,7 +111,7 @@ content:
 
           3. Metabolomic profiling of a southern beech population 
 
-          [![WSL](images/SPATIAL_GENETICS_LOGO_2024_1.jpg)](https://www.geo.uzh.ch/en/units/sg.html)
+          [<img src="images/SPATIAL_GENETICS_LOGO_2024_1.jpg" alt="drawing" width="30%"/>](https://www.geo.uzh.ch/en/units/sg.html)
       - layout: left
         title: Fundraising assistant (20%)
         sub_title: Plant Science Center, ETH
